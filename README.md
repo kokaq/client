@@ -2,7 +2,7 @@
   <img height="300" src="https://github.com/kokaq/.github/blob/main/kokaq-client.png" alt="cute quokka as kokaq logo"/>
 </div>
 
-`kokaq-client` provides official SDKs to interact with `kokaq` server via REST or gRPC. Designed for high-performance, typed, and idiomatic usage across languages.
+`client` provides official SDKs to interact with `kokaq` server via REST or gRPC. Designed for high-performance, typed, and idiomatic usage across languages.
 
 ## Supported Languages (Planned)
 - [x] .NET (C#)
