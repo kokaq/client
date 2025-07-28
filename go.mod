@@ -2,9 +2,13 @@ module github.com/kokaq/client
 
 go 1.24.4
 
+require github.com/kokaq/protocol v0.0.0
+
 require (
-	github.com/kokaq/protocol v0.0.0-20250615124554-e73e85aaf93d
-	github.com/sirupsen/logrus v1.9.3
+	golang.org/x/net v0.40.0 // indirect
+	golang.org/x/text v0.25.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250528174236-200df99c418a // indirect
+	google.golang.org/protobuf v1.36.6 // indirect
 )
 
 require (
